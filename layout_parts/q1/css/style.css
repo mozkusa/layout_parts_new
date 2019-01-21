@@ -2,4 +2,35 @@
 
 /* 回答はここに書いてね */
 
+.q1{
+  margin: 0 auto;
+}
+
+.big_box{
+  width: 960px;
+  background-color: #eff3f4;
+  position: absolute;
+}
+
+.box1{
+  margin: 20px 0 20px 20px;
+  padding: 20px;
+  width: 230px;
+  background-color: #3274ae;
+  float: left;
+  position: relative;
+}
+
+.box2{
+  width: 210px;
+  background-color: #eaf4ff;
+  border: 10px solid #022336;
+}
+
+.p{
+  padding: 20px;
+  font-size: 16px;
+  line-height: 16px;
+}
+
 /* 回答はここに書いてね */

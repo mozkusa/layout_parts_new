@@ -2,4 +2,188 @@
 
 /* 回答はここに書いてね */
 
+.q8-1 .btn_c{
+  background-color: #00bcd4;
+  color: #fff;
+}
+
+.q8-1 .btn_e{
+  background-color: #ff4081;
+  color: #fff;
+}
+
+.q8-1 .btn_d{
+  background-color: #e5e5e5;
+  color: #fff;
+}
+
+.q8-1 .btn_s{
+  background-color: #fff;
+  color: #222;
+  box-shadow: 0 1px 6px rgba(0,0,0,0.12);
+}
+
+.q8-1-1 .button{
+  display: inline-block;
+  font-size:16px;
+  line-height: 26px;
+  padding: 0 15px;
+  margin: 5px;
+  border-radius: 3px;
+}
+
+.q8-1-2 .button{
+  display:inline-block;
+  font-size: 20px;
+  line-height: 32px;
+  padding: 0 20px;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+.q8-1-3 .button{
+  display: inline-block;
+  font-size: 24px;
+  line-height: 38px;
+  padding: 0 25px;
+  margin: 5px;
+  border-radius: 7px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.form{
+  width: 700px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #ECF1F2;
+}
+
+.title{
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.title:before {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  height: 1px;
+  background-color: #ccc;
+  content: "";
+}
+
+.title_text{
+  position: relative;
+  display: inline-block;
+  padding-right: 10px;
+  background-color: #ECF1F2;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: left;
+}
+
+
+
+.clearfix::after{
+  content: "";
+  display: block;
+  clear: both;
+}
+
+
+
+.q8_main{
+  float: left;
+  width: 300px;
+}
+
+.q8_main li{
+  margin-top: 20px;
+  display: inline-flex;
+}
+
+.q8_main_items_title{
+  line-height: 25px;
+  width: 100px;
+  text-align: right;
+}
+
+.q8_main_items_content{
+  float: right;
+  width: 180px;
+  margin-left: 20px;
+}
+
+.q8_input {
+  width: 100%;
+  padding: 5px;
+  border-radius: 3px;
+  font-size: 12px;
+  line-height: 12px;
+  border: none;
+}
+
+.q8_select_body{
+  height: 25px;
+  border: none;
+  width: 100%;
+}
+
+.is-required{
+  color: #f00;
+}
+
+.q8_checkbox{
+  width: 300px;
+  text-align: right;
+}
+
+.q8_main_bottom_btn{
+  float: right;
+  padding: 0 10px;
+  border-radius: 5px;
+  background-color: #00BCD4;
+  color: #FFF;
+  cursor: pointer;
+  margin-top: 20px;
+  border-style: none;
+  line-height: 25px;
+  font-size: 16px;
+}
+
+.q8_side{
+  margin-top: 20px;
+  float: right;
+  width: 350px;
+  padding-right: 10px;
+}
+
+.q8_side_text{
+  width: 100%;
+  height: 203px;
+  padding: 5px;
+  border: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 /* 回答はここに書いてね */

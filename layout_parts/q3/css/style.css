@@ -2,4 +2,29 @@
 
 /* 回答はここに書いてね */
 
+.tb{
+  text-align: center;
+  width: 100%;
+}
+
+.tb tr:nth-child(2n+1){
+  background-color: #ecf1f2;
+}
+
+.tb tr:first-child,.tb th:first-child{
+  background-color: #2244aa;
+  font-size: 18px;
+  line-height: 26px;
+  color: #ffff;
+}
+
+.tb td, .tb th{
+  border: 1px solid #dedede;
+  padding: 10px;
+}
+
+.tb tr:last-child{
+  border-top: dashed #000 2px;
+}
+
 /* 回答はここに書いてね */

@@ -2,4 +2,39 @@
 
 /* 回答はここに書いてね */
 
+
+.balloon {
+  margin: 0 auto;
+  position: relative;
+  width: 500px;
+  height: 150px;
+  border: 5px solid #222;
+  border-radius: 30px;
+  background-color: #FFFFFF;
+}
+.balloon:before,
+.balloon:after {
+  position: absolute;
+	left: 10%;
+	top: 100%;
+	border: solid transparent;
+	content: '';
+	height: 0;
+	width: 0;
+	border-width: 20px;
+}
+.balloon:before {
+  border-top-color: #000000;
+  margin-left: -14px;
+}
+.balloon:after {
+  border-top-color: #FFFFFF;
+  margin: -5px 0 0 -14px
+}
+
+.balloon .caption{
+  padding: 20px;
+  font-size: 16px;
+  line-height: 16px;
+}
 /* 回答はここに書いてね */

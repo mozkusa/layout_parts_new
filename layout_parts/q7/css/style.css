@@ -2,4 +2,109 @@
 
 /* 回答はここに書いてね */
 
+
+.q7-1{
+  overflow: hidden;
+}
+
+.float_1{
+  width: 205px;
+  float: left;
+}
+
+.float_2{
+  width: 205px;
+  float: left;
+  margin-left: 50px;
+}
+
+
+
+
+.q7-2{
+  display: table;
+}
+
+.table_cell{
+  display: table-cell;
+  width: 205px;
+}
+
+.table_1{
+  padding-right: 50px;
+}
+
+
+
+
+
+.block{
+  display: inline-block;
+  width: 205px;
+  font-size: 0;
+}
+
+.block_1{
+  margin-right: 30px;
+  font-size: 16px;
+}
+
+.block_2{
+  font-size: 16px;
+}
+
+
+.q7-4{
+  display: flex;
+}
+
+.flex{
+  width: 205px;
+}
+
+.flex:last-child{
+  margin-left: 50px;
+}
+
+
+
+
+
+.q7-5{
+  font-size: 0;
+}
+
+.q7__box__text{
+  font-size: 16px;
+}
+
+.q7-5-1{
+  width: 300px;
+}
+
+.q7-5-2{
+  margin-left: -300px;
+  padding-left: 350px;
+  box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* 回答はここに書いてね */
