@@ -72,6 +72,8 @@
 
 .q7-5{
   font-size: 0;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .q7__box__text{
@@ -79,13 +81,16 @@
 }
 
 .q7-5-1{
-  width: 300px;
+  display: inline-block;
+  width:250px;
 }
 
 .q7-5-2{
-  margin-left: -300px;
-  padding-left: 350px;
+  display: inline-block;
+  margin-left: -250px;
+  padding-left: 300px;
   box-sizing: border-box;
+  width: 100%;
 }
 
 
