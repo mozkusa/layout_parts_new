@@ -7,14 +7,12 @@
   overflow: hidden;
 }
 
-.float_1{
+.float{
   width: 205px;
   float: left;
 }
 
-.float_2{
-  width: 205px;
-  float: left;
+.float:last-child{
   margin-left: 50px;
 }
 
@@ -30,7 +28,7 @@
   width: 205px;
 }
 
-.table_1{
+.table_cell:first-child{
   padding-right: 50px;
 }
 

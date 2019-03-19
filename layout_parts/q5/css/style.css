@@ -30,6 +30,16 @@
   z-index: 8;
 }
 
+.box8:after {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 20px;
+  height: 20px;
+  background-color: #FFEFD3;
+  content: "";
+}
+
 .box5{
   background-color: #9fd6d2;
   top: 360px;

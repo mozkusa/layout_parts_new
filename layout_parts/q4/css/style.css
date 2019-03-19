@@ -6,12 +6,12 @@
   padding: 20px;
 }
 
-.bar1,.bar2{
+.bar{
   display: table;
   width: 100%;
 }
 
-.bar2{
+.bar:last-child{
  padding-top: 20px;
 }
 

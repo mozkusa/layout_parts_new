@@ -11,24 +11,26 @@
   padding: 20px;
 }
 
-.pic1-left{
+.pic-left{
   float: left;
-  padding: 0 20px 10px 0;
+  margin: 0 20px 10px 0;
 }
 
-.p1-right{
+.text-right{
   font-size: 18px;
   line-height: 22px;
+  word-break: break-all;
 }
 
-.pic2-right{
+.pic-right{
   float: right;
-  padding: 0 0 10px 20px;
+  margin: 0 0 10px 20px;
 }
 
-.p2-left{
+.text-left{
   font-size: 18px;
   line-height: 22px;
+  word-break: break-all;
 }
 
 /* 回答はここに書いてね */

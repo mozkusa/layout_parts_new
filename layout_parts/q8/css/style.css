@@ -70,6 +70,7 @@
 .title{
   position: relative;
   margin-bottom: 20px;
+  text-align: left;
 }
 
 .title:before {
@@ -83,13 +84,12 @@
 }
 
 .title_text{
-  position: relative;
+  position:relative;
   display: inline-block;
   padding-right: 10px;
   background-color: #ECF1F2;
   font-size: 24px;
   font-weight: bold;
-  text-align: left;
 }
 
 
@@ -175,7 +175,9 @@
   border: none;
 }
 
-
+.btn:hover{
+  cursor: hand;
+}
 
 
 
