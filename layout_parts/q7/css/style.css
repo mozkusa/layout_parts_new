@@ -42,17 +42,16 @@
   font-size: 0;
 }
 
-.block_left{
+
+.block_box{
+  font-size: 16px;
+}
+
+.block:first-child{
   margin-right: 30px;
-  font-size: 16px;
 }
 
-.block_right{
-  font-size: 16px;
-}
-
-
-.q7_flex{
+.flex{
   display: flex;
 }
 

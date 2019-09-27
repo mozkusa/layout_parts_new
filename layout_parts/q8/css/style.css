@@ -2,28 +2,28 @@
 
 /* 回答はここに書いてね */
 
-.q8-1 .btn_c{
+.btn_common{
   background-color: #00bcd4;
   color: #fff;
 }
 
-.q8-1 .btn_e{
+.btn_error{
   background-color: #ff4081;
   color: #fff;
 }
 
-.q8-1 .btn_d{
+.btn_disabled{
   background-color: #e5e5e5;
   color: #fff;
 }
 
-.q8-1 .btn_s{
+.btn_shadow{
   background-color: #fff;
   color: #222;
   box-shadow: 0 1px 6px rgba(0,0,0,0.12);
 }
 
-.btn_small .button{
+.btn_small{
   display: inline-block;
   font-size:16px;
   line-height: 26px;
@@ -32,7 +32,7 @@
   border-radius: 3px;
 }
 
-.btn_middle .button{
+.btn_middle{
   display:inline-block;
   font-size: 20px;
   line-height: 32px;
@@ -41,7 +41,7 @@
   border-radius: 5px;
 }
 
-.btn_large .button{
+.btn_large{
   display: inline-block;
   font-size: 24px;
   line-height: 38px;
