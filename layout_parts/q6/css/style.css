@@ -43,11 +43,11 @@
   align-items: center;
 }
 
-.outer1{
+.outer_left{
   position: relative;
 }
 
-.inner1{
+.inner_left{
   position: absolute;
   top: 0;
   right: 0;
@@ -58,11 +58,11 @@
   height: 30px;
 }
 
-.outer2{
+.outer_right{
   position: relative;
 }
 
-.inner2{
+.inner_right{
   position: absolute;
   top: 50%;
   left: 50%;

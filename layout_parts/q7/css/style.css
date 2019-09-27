@@ -3,7 +3,7 @@
 /* 回答はここに書いてね */
 
 
-.q7-1{
+.q7_float{
   overflow: hidden;
 }
 
@@ -19,7 +19,7 @@
 
 
 
-.q7-2{
+.q7_table{
   display: table;
 }
 
@@ -42,17 +42,17 @@
   font-size: 0;
 }
 
-.block_1{
+.block_left{
   margin-right: 30px;
   font-size: 16px;
 }
 
-.block_2{
+.block_right{
   font-size: 16px;
 }
 
 
-.q7-4{
+.q7_flex{
   display: flex;
 }
 
@@ -68,7 +68,7 @@
 
 
 
-.q7-5{
+.q7_margin{
   font-size: 0;
   width: 100%;
   box-sizing: border-box;
@@ -78,12 +78,12 @@
   font-size: 16px;
 }
 
-.q7-5-1{
+.q7_margin_left{
   display: inline-block;
   width:250px;
 }
 
-.q7-5-2{
+.q7_margin_right{
   display: inline-block;
   margin-left: -250px;
   padding-left: 300px;
